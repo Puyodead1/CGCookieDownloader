@@ -1,13 +1,17 @@
 {
-  "name": "cg-cookie-downloader",
+  "name": "cgcookie-course-downloader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Downloads courses from CGCookie",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Puyodead1",
+  "repository": {
+    "url": "https://github.com/Puyodead1/CGCookieDownloader",
+    "type": "git"
+  },
   "license": "ISC",
   "dependencies": {
     "himalaya": "^1.1.0",
